@@ -4,17 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadelox&label=Profile%20views&color=0e75b6&style=flat" alt="fadelox" /> </p>
 
 - 🌱 I’m currently learning **Reack js...**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Fadelox](https://github.com/Fadelox)
-
 - 💬 Ask me about **Life**
-
 - 📫 How to reach me **fadelyoussef100@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/fadelyoussef/](https://www.linkedin.com/in/fadelyoussef/)
-
 - ⚡ Fun fact **You don't have time to read this**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fadelox01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadelox01" height="30" width="40" /></a>
