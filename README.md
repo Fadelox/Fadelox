@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadelox&label=Profile%20views&color=0e75b6&style=flat" alt="fadelox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadelox" alt="fadelox" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fadelox01" target="blank"><img src="https://img.shields.io/twitter/follow/fadelox01?logo=twitter&style=for-the-badge" alt="fadelox01" /></a> </p>
-
 - 🌱 I’m currently learning **Reack js...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fadelox](https://github.com/Fadelox)
