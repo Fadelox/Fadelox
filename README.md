@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fadel Youssef</h1>
 <h3 align="center">A dedicated and passionate student focused on software development, fascinated by technology since childhood. Motivated to pursue a career in computer science, gaining valuable practical experience and strong analytical skills through studies and various projects. Always eager to expand knowledge and contribute to innovative projects. In free time, enjoys learning new programming languages and sharing projects on GitHub to contribute to the developer community.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadelox&label=Profile%20views&color=0e75b6&style=flat" alt="fadelox" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadelox" alt="fadelox" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/fadelox01" target="blank"><img src="https://img.shields.io/twitter/follow/fadelox01?logo=twitter&style=for-the-badge" alt="fadelox01" /></a> </p>
 
 - 🌱 I’m currently learning **Reack js...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fadelox](https://github.com/Fadelox)
 
-- 💬 Ask me about **java,js**
+- 💬 Ask me about **Life**
 
 - 📫 How to reach me **fadelyoussef100@gmail.com**
 
@@ -27,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadelox&show_icons=true&locale=en&layout=compact" alt="fadelox" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadelox&show_icons=true&locale=en" alt="fadelox" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadelox&" alt="fadelox" /></p>
