@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Youssef Fadel</h1>
 <h3 align="center">A dedicated and passionate student focused on software development. Motivated to pursue a career in computer science, gaining valuable practical experience and strong analytical skills through studies and various projects. Always eager to expand knowledge. In free time, enjoys learning new programming languages and sharing projects on GitHub to contribute to the developer community.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadelox&label=Profile%20views&color=0e75b6&style=flat" alt="fadelox" /> </p>
+
 
 - 🌱 I’m currently learning **...**
 - 💬 Ask me about **Life**
