@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Youssef Fadel</h1>
-<h3 align="center">A dedicated and passionate student focused on software development. Motivated to pursue a career in computer science, gaining valuable practical experience and strong analytical skills through studies and various projects. Always eager to expand knowledge. In free time, enjoys learning new programming languages and sharing projects on GitHub to contribute to the developer community.</h3>
+<h3 align="center">I am a highly motivated computer scientist with a Bachelor’s degree in Computer Science, which I completed in Morocco. My passion for the digital world drives me because I firmly believe that technology makes our lives easier and gives us the opportunity to experience a better life. That’s why I am committed to constantly learning new technologies and bringing my ideas and creativity into this fascinating world.</h3>
 
 
 - 🌱 I’m currently learning **...**
