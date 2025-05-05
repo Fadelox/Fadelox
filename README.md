@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Youssef Fadel</h1>
-<h3 align="center">I am a highly motivated computer scientist with a Bachelor’s degree in Computer Science, which I completed in Morocco. My passion for the digital world drives me because I firmly believe that technology makes our lives easier and gives us the opportunity to experience a better life. That’s why I am committed to constantly learning new technologies and bringing my ideas and creativity into this fascinating world.</h3>
 
-
-- 🌱 I’m currently learning **...**
-- 💬 Ask me about **Life**
-- 📫 How to reach me **fadelyoussef100@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/fadelyoussef/](https://www.linkedin.com/in/fadelyoussef/)
-- ⚡ Fun fact **You don't have time to read this**
 
 
 <h3 align="left">Languages and Tools:</h3>
