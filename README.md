@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Youssef, and I'm a Software Developer, from nowhere</h2>
+<h2 align="left">Hi 👋! My name is Youssef, and I'm a Software Developer, from nowhere</h2>
 
 ###
 
@@ -6,6 +6,7 @@
 
 ###
 
+<img align="right" height="120" src="https://payload-cms.code-b.dev/media/1709674661110-1.gif"  />
 
 ###
 
@@ -70,8 +71,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadelox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadelox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadelox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadelox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
 ###
