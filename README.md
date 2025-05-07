@@ -6,7 +6,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/jBOOXxSJfG8kqMxT11/200w.gif?cid=6c09b9526aag0820uu9g1pguw9hdcldb6syzq2aeu275i899&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
